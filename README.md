@@ -29,6 +29,9 @@ https://guochengqian.github.io/project/magic123/
 **Shape-E**
 https://arxiv.org/abs/2305.02463
 
+**Score Jacobian Chaining**
+https://arxiv.org/abs/2212.00774
+
 ### Text-to-3D using Gaussian Splatting
 
 **Gsgen**
@@ -36,9 +39,6 @@ https://gsgen3d.github.io/
 
 **DreamGaussian**
 https://arxiv.org/abs/2309.16653
-
-**Score Jacobian Chaining**
-https://arxiv.org/abs/2212.00774
 
 
 ### Useful Resources
