@@ -44,6 +44,8 @@ https://gsgen3d.github.io/
 **DreamGaussian**
 https://arxiv.org/abs/2309.16653
 
+**Get3D**
+https://github.com/nv-tlabs/GET3D
 
 ### Useful Resources
 https://github.com/threestudio-project/threestudio
