@@ -1,5 +1,9 @@
+
 # 3DMeshGenerationPapers
 A collection of papers regarding 3D mesh generation. I do not know much about AIGC and created this respo for personal study purpose.
+
+**MeshGPT**
+https://nihalsid.github.io/mesh-gpt/
 
 **Insta3D**
 https://instant-3d.github.io/
